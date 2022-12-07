@@ -9,5 +9,11 @@ body {
 .box {
     height: 100px;
     width: 100px;
-    border: 1px solid #000;
+    border: 1px solid purple;
+}
+.circle {
+    height: 100px;
+    width: 100px;
+    border: 1px solid green;
+    border-radius: 50%;
 }
